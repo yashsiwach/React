@@ -7,8 +7,6 @@ dist/
 # Ignore the logs directory
 logs/
 
-# Ignore a nested directory
-src/generated/
 
 # Ignore all node_modules directories
 node_modules/
