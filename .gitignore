@@ -10,3 +10,6 @@ logs/
 
 # Ignore all node_modules directories
 node_modules/
+/dist
+/node_modules
+/.parcel-cache
